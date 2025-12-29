@@ -30,8 +30,8 @@ nmap -A scanme.nmap.org
 - ![Scan Start](IMG-20251229-WA0010)
 - ![Scan Running](IMG-20251229-WA0012)
 - ![Scan Results](IMG-20251229-WA0011)
-- (IMG-20251229-WA0012)
-- (IMG-20251229-WA0009)
+- ![Scan Results](IMG-20251229-WA0012)
+- ![Scan Results](IMG-20251229-WA0009)
 
 ## Video Demo
 - [Watch Demo](VID-20251229-WA0013)
