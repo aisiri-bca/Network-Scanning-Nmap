@@ -26,5 +26,13 @@ nmap -A scanme.nmap.org
 - OS Detected: Linux (Kernel 4.x – 5.x)
 - Traceroute analysis performed
 
+## Screenshots
+- ![Scan Start](IMG-20251229-WA0010)
+- ![Scan Running](IMG-20251229-WA0012)
+- ![Scan Results](IMG-20251229-WA0011  IMG-20251229-WA0012  IMG-20251229-WA0009)
+
+## Video Demo
+- [Watch Demo](VID-20251229-WA0013)
+
 ## Ethical Consideration
 All scans were performed on authorized targets only for educational purposes.
